@@ -1,3 +1,5 @@
+import pytest
+
 import c3srtconv
 
 
@@ -6,6 +8,16 @@ def test_read_single_line():
 
     assert line.start_time == 1416437361274
     assert line.text == 'ich bin ein live subs'
+
+
+def test_read_single_line_invalid_tab():
+    with pytest.raises(c3srtconv.reader.ParseException):
+        c3srtconv.reader.read_single('1416437361274  spaceline')
+
+
+def test_read_single_line_invalid_number():
+    with pytest.raises(c3srtconv.reader.ParseException):
+        c3srtconv.reader.read_single('aaaa\tspaceline')
 
 
 def test_read_multiple_lines():

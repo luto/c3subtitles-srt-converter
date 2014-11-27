@@ -8,7 +8,7 @@ class ParseException(Exception):
 def read_single(line):
     parts = line.split('\t', 2)
 
-    if len(parts) == 0:
+    if len(parts) != 2:
         raise ParseException('line does not contain a tab')
 
     try:
