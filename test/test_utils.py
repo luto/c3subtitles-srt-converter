@@ -7,7 +7,7 @@ def test_fix_offset():
         c3srtconv.Line(250, 'B'),
     ]
 
-    new_lines = c3srtconv.fix_offset(lines, 100)
+    new_lines = c3srtconv.move_all(lines, -100)
 
     assert len(lines) == 2
     assert lines[0].start_time == 200

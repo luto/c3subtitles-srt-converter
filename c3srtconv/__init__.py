@@ -1,4 +1,4 @@
-from .utils import fix_offset
+from .utils import move_all
 from .utils import time_to_srt_str
 from .utils import slice
 from .line import Line

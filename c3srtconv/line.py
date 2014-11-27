@@ -26,5 +26,5 @@ class Line:
         duration = (2 + self.count_words() * 1.5) * 1000
         return self.start_time + duration
 
-    def fix_offset(self, offset):
-        return Line(self._start_time - offset, self._text)
+    def move(self, offset):
+        return Line(self._start_time + offset, self._text)

@@ -1,8 +1,8 @@
 from datetime import datetime
 
 
-def fix_offset(lines, offset):
-    return [line.fix_offset(offset) for line in lines]
+def move_all(lines, offset):
+    return [line.move(offset) for line in lines]
 
 
 def slice(lines, start=None, end=None):
