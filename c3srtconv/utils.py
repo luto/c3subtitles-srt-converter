@@ -5,6 +5,14 @@ def fix_offset(lines, offset):
     return [line.fix_offset(offset) for line in lines]
 
 
+def slice(lines, start=None, end=None):
+    for line in lines:
+        if (start is None or line.start_time >= start) and \
+           (end is None or line.start_time <= end):
+            yield line
+            continue
+
+
 def time_to_srt_str(time):
     ms = int(time % 1000)
     time //= 1000
