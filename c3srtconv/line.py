@@ -23,7 +23,7 @@ class Line:
         return self._text.count(' ') + 1
 
     def _calculate_end_time(self):
-        duration = 2 + self.count_words() * 1.5
+        duration = (2 + self.count_words() * 1.5) * 1000
         return self.start_time + duration
 
     def fix_offset(self, offset):

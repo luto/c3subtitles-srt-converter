@@ -25,4 +25,4 @@ def test_read_multiple_lines():
 
 def test_end_time():
     line = c3srtconv.Line(5, 'a bccc d')
-    assert line.end_time == 11.5
+    assert line.end_time == 6505
