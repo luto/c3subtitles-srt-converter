@@ -20,3 +20,8 @@ def test_fix_offset():
     assert new_lines[0].text == 'A'
     assert new_lines[1].start_time == 150
     assert new_lines[1].text == 'B'
+
+
+def test_time_to_srt_str():
+    str = c3srtconv.time_to_srt_str(7105021)
+    assert str == '01:58:25,021'
