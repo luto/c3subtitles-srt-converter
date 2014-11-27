@@ -1,0 +1,15 @@
+# IDEs
+.idea
+
+# virtualenv
+venv
+__pycache__
+
+# build
+dist
+build
+osf.egg-info
+
+# testing
+.coverage
+coverage_html_report

@@ -1,0 +1,300 @@
+1416437247412	Foo
+1416437249954	Bar
+1416437250865	Moo
+1416437359345	test
+1416437361274	ich bin ein live subs
+1416437362798	nice
+1416437384010	Hallo
+1416437397484	Wie heißt der gute Mann auf der Bühne?
+1416437400772	hm..
+1416437402491	schaun wir mal
+1416437412800	wär cool wenn man noch sieht wer da gerade tippt
+1416437420456	das siehst du an der Farbe
+1416437438229	ahhh ok
+1416437441138	ja jetzt wo du es sagst
+1416437444802	wieso hängt bei mri nen sternchen drann?
+1416437447495	weil ich ich bin?
+1416437451094	du bist admin
+1416437452663	ahhh
+1416437458398	du kannst oben den ruam locken
+1416437466481	dann kommtkeiner rein ausser mir?
+1416437472173	drück halt mal drauf
+1416437476973	seh da ein schloss
+1416437487872	Gelächter
+1416437490574	Herald: 
+1416437519985	kannst du um laute also sowas wie gelächter oder applaus sternchen drum herum machen? das nimmt man meist um klar  zu machen, dass es geräsuche sind :)
+1416437574926	Auto
+1416437585761	*Applaus*
+1416437604620	Shortcut #A wäre cool für *Applaus*
+1416437619013	hu ja
+1416437643416	das sieht sehr schön übersichtlich aus
+1416437658188	wobei user vielleicht lieber links vom tippen
+1416437663668	andererseits bei kleinen biildschirmen :Z/
+1416437689016	ja kleine bildschirme muss man mal gucken
+1416437699874	ich bin jetzt erstmal von meinem prügel ausgegangen hier
+1416437700998	hihi ja ich hab hier auch eher was breiteres
+1416437730171	so jetzt wollte ich als nächstes die reader-view machen: http://c3voc.mazdermind.de:33133/
+1416437735247	also quasi nen read-only-zugang?
+1416437750426	huch kann den link net markieren und übernehmen
+1416437763626	meine idee war dass die gäste das aufm smartphone aufmachen können im saal
+1416437772988	um dort die live subs lesen zu können
+1416437786181	ja das system versucht den fokus auf dem eingabefeld zu landen
+1416437788135	ja das ist gut (ich habs grad auf) aber es wäre gut wenn neuer text von unten kommt
+1416437801372	okay :)
+1416437802822	bin schon still
+1416437804844	jajaja da war ich auch erst 5 minuten dran weil ich nicht wusste wie man das haben will ^^
+1416437812047	deswegen wollte ich dich da ja mal fragen
+1416437816921	kk
+1416437817441	ich glaub es ist angenehmer wenn es nach oben weg scrollt quasi
+1416437823590	ist meist intuitiver
+1416437833600	entspricht glaube eher dem üblichen redefluss
+1416437835907	äh lesefluss
+1416437845917	sollten die zeilen von selbst verschwinden / verblassen?
+1416437864139	hm ich würd sagen maximal eine bildschirmhöhe
+1416437880173	ja hängt halt davon ab wie groß ich den text mache
+1416437883771	kann man das irgendwie variabel machen?
+1416437890055	oder ein feld machen das imemr automatisch nach unten scrollt?
+1416437906702	weil ich glaube es wäre tödlich auf einem smartphone wenn man immer runter scrollen müsste
+1416437911875	neee das macht das ding automatisch dann
+1416437915314	gut
+1416437920397	und schriftgröße wird veränderbar sein
+1416437929331	super, für leute die mehr kontrast und größe brauchen
+1416437938018	mehr kontrast als s/w kann ich nicht bieten ;)
+1416437939754	nene das passt shcon :)
+1416437950368	btw. in Saal1 werden wir das auch aufm beamer haben
+1416437952858	cool
+1416437955734	ich schieb ja langsam panik
+1416437967212	hab vorhin extra3 mit spracherkennung kurz angetestet.. sobald du anfängst nachzudenken hast verloren
+1416437973872	aber nen vortrag ist ja nochmal was anderes..
+1416437992507	ich spekuliere ja eher auf besseres crowdsourcing (im sall) als auf die one-woman-show
+1416437995273	ja hoffe ich auch :)
+1416438005925	bzw hätte ich absolut gar nichts gegen einzuwenden :)
+1416438006471	das scrolling hier ist auch etwas broken
+1416438011695	muss ich noch fixen
+1416438018592	ja bei mir rutsch timmer mal ne halbe oder ganze zeile unten raus kann das sein?
+1416438019967	ja das reparier ich noch
+1416438030632	okay dachte das wär nur bei mir im nicht-mainstream-browser so :)
+1416438044952	ok aber so würde das schon was bringen, oder?
+1416438050963	äh was jetzt genau?
+1416438054474	na das ding hier
+1416438057052	jaaaaaaaaaaaaaa
+1416438066742	hab das mit den pads ja nicht erlebt
+1416438067700	das geht exakt in das was ich mir erhofft/vorgestellt hab
+1416438071390	in die richtung
+1416438077415	magst net erleben.. ehrlich net
+1416438079666	kackt andauernd ab..
+1416438104380	oh und oben am besten noch ganz fett einblenden, dass ALLES was man hier schreibt live raus geht
+1416438115573	das stand beim login
+1416438118508	das war was gutes an den pads, da gabs immer noch den kleinen chat daneben
+1416438123698	jo.. aber das sind user..
+1416438128278	und die müssen sich ja eh nen login bei dir abholen
+1416438130144	okee
+1416438132435	ich hab >6 jahre helpdesk hinter mir ;-)
+1416438135687	bau ich ein
+1416438150464	ah also gar kein zugang ohne login? kommt mir entgegen
+1416438155741	kein write-access ohne login
+1416438160695	nur read
+1416438165712	in der hoffnung dass ich es vorher gut genug kommuniziert bekomme, das ich auch gleich am anfang genug leute hab
+1416438172626	schätze da werden fragen kommen wieso das keine engel jobs sind :)
+1416438178983	oben rechts gibts ein rudimentäres user management
+1416438198631	haha das delete ist auch gleich drinn :)
+1416438206795	ja dann sprich doch mal mit capo oder [irgendwas mit g...]
+1416438208369	guide?
+1416438215626	genau
+1416438229100	bzw. sprech doch das mal in #voc an
+1416438233414	ja mir ist vorhin bei dem extra3-versuch auch gekommen dass ich eventuell noch kleine karten entwerfen sollte die ich den speakern in die hand drücke damit sie besser untertitelbar sind
+1416438239816	- insofern sie sich etwas drann halten
+1416438272839	ich würde vorschlagen, jetzt wo's so ein tool gibt (und man das auch sinnvoll mit mehreren machen können sollte), mal in #voc zu fragen an wen du dich wenden kannst
+1416438282058	mir kommt grad noch was anderes: kann ich jemandem auch privilegien geben, dass derjenige auch noch in nen geschlossenen saal rein kommt?
+1416438291639	das weiß ich an sihc
+1416438292879	lindenworm
+1416438294131	hmm lock bedeutet grad nur das eine genster
+1416438299375	fenster
+1416438299495	und guide
+1416438313642	darüber komm ich an die heralds ran und vermutlich auch an die speaker
+1416438332708	ok, dann melde doch da mal an dass du einen subtitle-engel-typ brauchst
+1416438341025	aber es müsste ja eh noch das saal-koordinatoren- treffen morgen abend sein, das kommt mir da dann gerade gelegen
+1416438343451	gut, gut
+1416438359696	wollte ich letztes jahr schon.. die begeisetrung war.. äh.. gering
+1416438361977	wär halt schade wenn's dann daran scheitert, dass es keiner nutzt
+1416438376928	die hatten mords angst, dass ihnen dann wo anders engel fehlen :(
+1416438381310	ja aber jetzt ist das im live-video-stream drin, aufm beamer und es wird eine smartphone-seite geben
+1416438387199	ja :)
+1416438391814	ich werds auf jedenfall nochmal versuchen :)
+1416438401190	denke was engel angeht ist guide der richtige ansprechparnter
+1416438409366	andi sagre dass es eher zu viel waren bei den video-leuten, die angst ist dieses jahr vermutlich geringer
+1416438409466	die seite hier bleibt weiter online? dann kann ich die ja "vorzeigen"
+1416438420142	und wir haben auch die audio-engel ersatzlos gestrichen
+1416438427334	ui krass
+1416438433578	ja das sollte idealerweise online bleiben und nicht umfallen
+1416438439509	das mit dem zu wenig engel war auch eher nicht auf video/audio bezogen
+1416438471769	ich denk ich werd mal guide anhauen und in dem meeting, das fängt nur leider wieder mal an wenn ich net kann.. werde da also erst nachkommen
+1416438476286	wann geht's los da?
+1416438493137	ich meine das war morgen ab 21 uhr aber ich hab zumindest heute definitiv den überblick verloren :/
+1416438496885	war heute nicht auch was?
+1416438500550	heute war saal-av
+1416438509617	da hab ich das mit dem beamer.mix angebracht
+1416438511573	jup.. ich wusste ich hab was verplant *käse*
+1416438524610	sehr cool!
+1416438525742	ich hab die unteritel-frakton vertreten, keine sorge
+1416438529687	huch ich war zu schnell *g
+1416438547433	ja das mit der reihenfolge muss man wohl üben
+1416438550078	ja :)
+1416438555987	ist halt ungewohnt
+1416438560272	aber ich denk da gewöhnt man sich sehr schnell drann
+1416438570613	ist ähnlich zum pad
+1416438576455	nur pad geht halt nicht mit live gucken
+1416438585405	man könnte ja auch über dem "hier wird gerade getippt"-Bereich einen waagrechten strich machen das es grafisch etwas mehr abgetrennt ist
+1416438592433	k, das probier ich mal
+1416438595690	ich tu mir da grad bissel schwer mit dem erkennen, aber das kann auch an meinen augen liegen :)
+1416438602128	das hellgrün auf blau ist auch sch*
+1416438609681	du kannst dir in den settings ne neue farbe wählen
+1416438614098	aber da muss ich nochmal bei
+1416438630609	ja, ich denke aktuell kommen wir klar, aber jemand mit farbsehschwäche nicht
+1416438643767	aber ich hab da 2-3 opfer in der umgebung mit dem gängigsten di eich mal fragen könnte
+1416438650633	also ob die noch was sehen
+1416438663160	btw. es werden auch schon logs aufgezeichnet: http://c3voc.mazdermind.de:33133/logs/
+1416438673936	das sind noch keine SRTs aber daraus kann man die ableiten
+1416438680332	gruselig :D
+1416438684990	so ggf. später auch automatisch
+1416438687593	ja.. sorry
+1416438689846	:D
+1416438697833	wir können wieder in den irc wechseln
+1416438698824	kann ich mit leben gerade :)
+1416438700989	ok
+1416440148694	asd
+1416440161093	Gelächter
+1416469636109	111
+1416471571813	Hallo da draußen,
+1416480349788	Laaaaa
+1416480359577	Grrrrrrrmmmaaalalalalala
+1416480362005	aaaaaaaaaaaaaaaaa
+1416480365129	Buuuhuuu
+1416480388869	Jop
+1416480462886	Hmm?
+1416523323218	Hab grad noch mal neu gestartet. sollte aber keinen unterschied machen
+1416523338185	hihi hat einer grad heir im noc die adresse gesehen und will rein
+1416523362095	mach mal noch das   
+1416523371852	hä das frisst die "hashtags"
+1416523379737	da efhlt noch ne nur. 2
+1416523387246	gibt zwei mal ne 1
+1416523378350	na die werden halt durch leere strings ersetzt
+1416523389969	steht halt nix drin grad
+1416523394733	ahhh okay
+1416523399689	wenn der fahrplan steht und die zeit stimmt werden da die namen der speaker rein geladen
+1416523426385	test bla
+1416523433579	nice
+1416523438406	wie bestellt
+1416523441663	:)
+1416523451240	hihi ja
+1416523454306	*Gelächter*
+1416523456263	#A
+1416523459470	#A
+1416523464410	öh
+1416523465616	#A
+1416523467374	#A test
+1416523468735	#A
+1416523471276	oh
+1416523472033	Herald: 
+1416523474970	'1
+1416523483884	test1
+1416523493255	glabu der applaus mag mich net
+1416523497517	#A
+1416523503600	Publikum: 
+1416523505712	Speaker: 
+1416523526514	ja, schon gefixt: https://github.com/MaZderMind/live-subtitles-test-backend/commit/c811c8f60fd71141a430095bd872308e261f0823
+1416523558610	9 8
+1416523563034	7
+1416523564342	6
+1416523565701	5
+1416523567279	4
+1416523569006	3
+1416523570561	2
+1416523571798	test1
+1416523574142	test
+1416523582303	das ist echt nice, da kann ich die makros gleich mit einbauen
+1416523578152	makros?
+1416523599283	für die spracherkennung
+1416523603413	ich sag "Makro A" und hab applaus
+1416523606105	*grml* das scrolling ist immer noch broken
+1416523609692	oder "Makro H" usw
+1416523612460	dachte das hätte ich im griff
+1416523665791	das mit zwei mal \# 1 hast gesehen?
+1416523697651	mach mal F5
+1416523712034	re
+1416523716874	re
+1416523717354	wb
+1416523733292	das hinten an der zeit sind millisekunden oder?
+1416523743031	gut
+1416523741450	ja, das sind MS seit 1.1.1970
+1416523769132	so jetzt ist # 2 und # A da
+1416523778828	*Applaus*
+1416523789876	ok
+1416523798645	jup :)
+1416523811720	De / En gibts da dann nen "switch" bei den \*Gelächter* usw
+1416523834593	bzw. holt sich aus dem fahrplan oder?
+1416523840466	in der hoffnung, dass der da immer stimmt..
+1416523857874	hmm derzeit nicht, derzeit ist das fix
+1416523869393	kann man aber noch anders machen
+1416523879433	ok
+1416523905058	so, heute mal feierabend. morgen dann vor allem player frontend
+1416523913155	:)
+1416523924833	so hast immerhin abwechslung beim proggen :)
+1416523930804	^^
+1416523934073	ich kann grad kein python mehr sehen
+1416523932878	am we wollte ich mich dem youtube-oauth-api-foo widmen
+1416523955241	uhhhh klingt nach äh spaß
+1416523962682	joa geht schon
+1416523969075	derzeit ist youtube halt .. kompliziert
+1416523981957	https://c3voc.de/wiki/youtube
+1416523979145	ja das kam mir auch zu ohren
+1416524001752	das geht auch besser
+1416524034284	ich müsste zugang haben zu dem youtube-account
+1416524041176	hat mir andi schon gegeben
+1416524044298	kann ich dann zum timen missbrauchen wenn ich mag.. aber ist eher kontraproduktiv
+1416524058922	habs mit den 30C3 videos nicht öffentlich mit andi getestet.. ähh... nein
+1416524133006	jut dann mag ich dich mal net weiter abhalten :)
+1416524139232	auch das leichte gelb ist gut btw
+1416524164891	joa passt schon. kann euch doch nicht so rumeiern lassen mit dne pads ^^
+1416524192469	vor allem lässt sich das halt nicht aufn beamer werfen
+1416524206322	ja leider bzw. schlechter
+1416524202544	ich wollte noch so ne tech-seite machen falls leute aufm congress mit den daten spielen wollen
+1416524227464	ok
+1416524222169	so auf flipdot oder die bahn-anzeige oder sowas bringen
+1416524235346	*g
+1416524235589	wer weiß
+1416524240086	vor dem saal könnt man das auch dann displayen auf den info-bildschirmen :D
+1416524249785	ohne ton mitelsen :D
+1416524395173	foofsfs
+1416524420979	fsfs
+1416524421441	fsf
+1416525763633	test
+1416582549815	Mooo
+1416582538711	Vaaaa
+1416582557690	*Applaus*
+1416582636527	ghfdghfdjgrkjgrdgtfhfds
+1416582638681	##
+1416582639046	hdsjfdgdffhf
+1416944526118	123
+1416944527138	456
+1416944528063	789
+1416944759445	sehr schön
+1416944761103	du kannst jetzt sehen wenn ich tippe und du auch mal nebenher tippst das du di ch auch siehst
+1416944770690	probie rmal jojarijgoaenrgioaergoönaöerngäaerngaeöorngaergearg
+1416944774508	okay, ich kann sehen, was ich tippe, wunderbar.
+1416944906359	Herald: blub
+1416952618484	noch drinn?
+1417087782881	Foo
+1417087784728	Bar
+1417087786618	Moo
+1417087790883	Test 2 3 4 
+1417087939423	Gooo
+1417087981601	ffff
+1417087989239	zzzz
+1417087992303	ooo
+1417087994419	eeee
+1417087997243	rrrr
+1417088001767	Gaaa gooo mooo
+1417088530859	Moo
+1417088536670	ooo
+1417088715173	Miau
