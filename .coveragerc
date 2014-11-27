@@ -1,0 +1,6 @@
+[run]
+branch = True
+
+[html]
+directory = coverage_html_report
+title = c3srtconv coverage
