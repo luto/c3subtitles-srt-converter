@@ -37,8 +37,8 @@ if start is not None or end is not None:
 lines = list(lines)
 
 if len(lines) > 0:
-    if start is not None:
-        lines = c3srtconv.move_all(lines, lines[0].start_time * -1)
+    lines = c3srtconv.move_all(lines, lines[0].start_time * -1)
+
     if offset is not None:
         lines = c3srtconv.move_all(lines, offset)
 
